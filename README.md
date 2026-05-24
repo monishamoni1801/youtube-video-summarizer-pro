@@ -132,10 +132,3 @@ This project is licensed under the MIT License.
 
 ⭐ Support
 If you like this project, give it a ⭐ on GitHub.
-
-
-After creating `README.md`,
-run:
-git add README.md
-git commit -m "Added README file"
-git push
