@@ -55,6 +55,7 @@ youtube-video-summarizer-pro/
 ├── .env.example
 └── .gitignore
 
+---
 
 ⚙️ Installation
 1️⃣ Clone the Repository
